@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Yash Londhe](https://github.com/yashlondhe90960)
+- Place: Pune, Maharashtra, India
+- Bio: Cross platform app developer?
+- GitHub: [Yash Londhe](https://github.com/yashlondhe90960)
